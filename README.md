@@ -1,72 +1,95 @@
-<h1 align="center">Olá! 👋 Eu sou o Gustavo Monteiro Greco</h1>
+<h1 align="center">🎮 Gustavo Monteiro Greco | Level Up in Tech!</h1>
 
 <p align="center">
-  🎮 Estudante de ADS apaixonado por tecnologia, jogos e inovação <br>
-  📍 Atualmente em São José dos Campos - SP
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=An%C3%A1lise+e+Desenvolv.+de+Sistemas;Apaixonado+por+Jogos%2C+IA+e+Backend;Explorando+novas+tecnologias!+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  🌎 São José dos Campos - SP <br>
+  🧠 Foco: Games | IA | Backend <br>
+  🎯 Missão: Criar soluções criativas que conectem diversão e inovação.
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+## 🧠 Modo História (Sobre Mim)
 
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na Fatec de São José dos Campos. Saí do meu lar no interior para me aproximar da minha paixão, que é a tecnologia, e vivenciar minhas principais áreas de interesse: **desenvolvimento de jogos**, **cibersegurança** e **inteligência artificial**.
+> "Deixei o interior para me aproximar da minha paixão na cidade grande."
 
-Tenho sempre o desejo de aprender e estudar mais sobre esses assuntos, abraçando todos os cursos, projetos e programas que me ajudem a aprofundar meu conhecimento no mundo da tecnologia e da inovação.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José dos Campos. Minha jornada em tecnologia nasceu do amor por games, ganhou estratégia com o desenvolvimento de software e está desbloqueando novos poderes com inteligência artificial.
 
----
-
-### 🧰 Tecnologias e Ferramentas
-
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-</div>
+🎯 Hoje, meu foco é **aprender na prática**, colaborar em projetos, contribuir para a comunidade e subir de nível constantemente.
 
 ---
 
-### 🚀 Projeto em Destaque
-
-🔗 [CRUD Agenda de Contatos](https://github.com/GustavoMGreco/CRUD-Agenda-de-Contatos)  
-📌 Um sistema web simples com funcionalidades de Create, Read, Update e Delete usando Flask e MySQL.
-
----
-
-### 📊 Estatísticas do GitHub
+## 🔧 Minhas Skills (Arsenal Atual)
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,flask,mysql,git,github,vscode" />
+</div>
 
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoMGreco&show_icons=true&theme=dracula&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMGreco&layout=compact&theme=dracula)
+> Em progresso:  Godot 🕹️ |  Java ☕ | Spring 🌱
 
+---
+
+## 🚩 Missões em Destaque
+
+### 📌 [CRUD Agenda de Contatos](https://github.com/GustavoMGreco/CRUD-Agenda-de-Contatos)
+> Sistema web completo com Flask + MySQL. Um projeto que une backend funcional com um front responsivo. Ideal para treinar lógica e banco de dados.
+
+---
+
+## 💡 Missão Atual
+
+> 💬 “Transformar minha paixão em impacto real, construindo projetos que inspiram e emocionam.”
+
+---
+
+## 🏅 Conquistas Recentes
+
+- 🎮 Iniciei estudos em **Desenvolvimento de jogos**.
+- 🧪 Desenvolvimento de protótipos com **Godot Engine;**
+- 🛠 Participei de **hackathons acadêmicos** com foco em resolução de **problemas reais**;
+- 💻 Desenvolvi soluções web com **Python** e **Flask**;
+
+
+---
+
+## 📊 Status do Jogador
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoMGreco&show_icons=true&theme=radical&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMGreco&layout=compact&theme=radical" />
 </div>
 
 ---
 
-### 🏆 Troféus do GitHub
+## 🧩 Troféus da Campanha
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GustavoMGreco&theme=dracula&margin-w=10&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GustavoMGreco&theme=radical&row=2&column=3" />
 </p>
 
 ---
 
-### 🌐 Onde me encontrar
+## 🧭 Mapa de Contato (Linktree Dev)
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gustavomgreco)
-- 🌍 [Portfólio](https://portfolio-theta-bice-64.vercel.app)
+| 🌐 Rede | Link |
+|--------|------|
+| 💼 LinkedIn | [@gustavomgreco](https://www.linkedin.com/in/gustavomgreco) |
+| 🌍 Portfólio | [portfolio-theta-bice.vercel.app](https://portfolio-theta-bice-64.vercel.app) |
+| 🧠 Itch.io | *em breve* |
 
 ---
 
-### 🎮 Citação de Jogador
+## 💬 Citação de Jogador
 
 > “O mundo é como um jogo — com dedicação, estratégia e aprendizado constante, cada fase se torna uma conquista.”  
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="150px" />
+ <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="180px" />
+  <br><br>
+  <i>“Continue salvando. Continue explorando. Continue aprendendo.”</i>
 </p>
