@@ -34,24 +34,23 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
 
 ## 🚩 Missões em Destaque
 
-### 📌 [CRUD Agenda de Contatos](https://github.com/GustavoMGreco/CRUD-Agenda-de-Contatos)
-> Sistema web completo com Flask + MySQL. Um projeto que une backend funcional com um front responsivo. Ideal para treinar lógica e banco de dados.
+### 📌 [API - AVATAR](https://github.com/NinjaDevs-API/NinjaDevs)
+> Sistema web para gestão de atestados médicos e avaliação de equipes ágeis. Solução robusta que melhora a comunicação acadêmica, além de prover métricas para equipes utilizando a metodologia Scrum.
 
 ---
 
 ## 💡 Missão Atual
 
-> 💬 “Transformar minha paixão em impacto real, construindo projetos que inspiram e emocionam.”
+> 💬 “Transformar minha paixão em impacto real, construindo projetos que inspiram e solucionam problemas.”
 
 ---
 
 ## 🏅 Conquistas Recentes
 
-- 🎮 Iniciei estudos em **Desenvolvimento de jogos**.
-- 🧪 Desenvolvimento de protótipos com **Godot Engine;**
-- 🛠 Participei de **hackathons acadêmicos** com foco em resolução de **problemas reais**;
 - 💻 Desenvolvi soluções web com **Python** e **Flask**;
-
+- 🛠 Participei de **hackathons acadêmicos** com foco em resolução de **problemas reais**;
+- 🧪 Desenvolvi meu **Site Portfólio**;
+- 🎮 Iniciei estudos em **Desenvolvimento de jogos**.
 
 ---
 
@@ -76,8 +75,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
 
 | 🌐 Rede | Link |
 |--------|------|
-| 💼 LinkedIn | [@gustavomgreco](https://www.linkedin.com/in/gustavomgreco) |
-| 🌍 Portfólio | [portfolio-theta-bice.vercel.app](https://portfolio-theta-bice-64.vercel.app) |
+| 💼 LinkedIn | [gustavomgreco](https://www.linkedin.com/in/gustavomgreco) |
+| 🌍 Portfólio | [portfolioGMG](https://portfolio-theta-bice-64.vercel.app) |
 | 🧠 Itch.io | *em breve* |
 
 ---
