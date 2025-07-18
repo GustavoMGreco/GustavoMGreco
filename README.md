@@ -57,7 +57,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
 ## 📊 Status do Jogador
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoMGreco&show_icons=true&theme=radical&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoMGreco&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMGreco&layout=compact&theme=radical" />
 </div>
 
