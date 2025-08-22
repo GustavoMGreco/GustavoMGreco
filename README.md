@@ -25,10 +25,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
 ## 🔧 Minhas Skills (Arsenal Atual)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,flask,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,java,flask,mysql,git,github,vscode" />
 </div>
 
-> Em progresso:  Godot 🕹️ |  Java ☕ | Spring 🌱
+> Em progresso:  Godot 🕹️ | Spring 🌱
 
 ---
 
@@ -71,7 +71,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
 
 ---
 
-## 🧭 Mapa de Contato (Linktree Dev)
+## 🧭 Mapa de Contato
 
 | 🌐 Rede | Link |
 |--------|------|
