@@ -6,13 +6,13 @@
 
 <p align="center">
   🌎 São José dos Campos - SP <br>
-  🧠 Foco: Games | IA | Backend <br>
+  🧠 Foco:  Backend | Games | IA<br>
   🎯 Missão: Criar soluções criativas que conectem diversão e inovação.
 </p>
 
 ---
 
-## 🧠 Modo História (Sobre Mim)
+## 🧠 Sobre Mim
 
 > "Deixei o interior para me aproximar da minha paixão na cidade grande."
 
@@ -22,7 +22,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
 
 ---
 
-## 🔧 Minhas Skills (Arsenal Atual)
+## 🔧 Minhas Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,java,flask,mysql,git,github,vscode" />
@@ -32,7 +32,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
 
 ---
 
-## 🚩 Missões em Destaque
+## 🚩 Projeto em Destaque
 
 ### 📌 [API - AVATAR](https://github.com/NinjaDevs-API/NinjaDevs)
 > Sistema web para gestão de atestados médicos e avaliação de equipes ágeis. Solução robusta que melhora a comunicação acadêmica, além de prover métricas para equipes utilizando a metodologia Scrum.
@@ -54,16 +54,16 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
 
 ---
 
-## 📊 Status do Jogador
+## 📊 Meus Status
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoMGreco&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoMGreco&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&cache_seconds=21600" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMGreco&layout=compact&theme=radical" />
 </div>
 
 ---
 
-## 🧩 Troféus da Campanha
+## 🧩 Troféus
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GustavoMGreco&theme=radical&row=2&column=3" />
@@ -81,7 +81,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
 
 ---
 
-## 💬 Citação de Jogador
+## 💬 Citação
 
 > “O mundo é como um jogo — com dedicação, estratégia e aprendizado constante, cada fase se torna uma conquista.”  
 
