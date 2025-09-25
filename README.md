@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Gustavo Monteiro Greco | Level Up in Tech!</h1>
+<h1 align="center">Gustavo Monteiro Greco</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=An%C3%A1lise+e+Desenvolv.+de+Sistemas;Apaixonado+por+Jogos%2C+IA+e+Backend;Explorando+novas+tecnologias!+%F0%9F%9A%80" />
@@ -7,7 +7,6 @@
 <p align="center">
   🌎 São José dos Campos - SP <br>
   🧠 Foco:  Backend | Games | IA<br>
-  🎯 Missão: Criar soluções criativas que conectem diversão e inovação.
 </p>
 
 ---
@@ -36,12 +35,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
 
 ### 📌 [API - AVATAR](https://github.com/NinjaDevs-API/NinjaDevs)
 > Sistema web para gestão de atestados médicos e avaliação de equipes ágeis. Solução robusta que melhora a comunicação acadêmica, além de prover métricas para equipes utilizando a metodologia Scrum.
-
----
-
-## 💡 Missão Atual
-
-> 💬 “Transformar minha paixão em impacto real, construindo projetos que inspiram e solucionam problemas.”
 
 ---
 
