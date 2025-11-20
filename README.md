@@ -24,7 +24,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
 ## 🔧 Minhas Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,java,flask,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,java,flask,mysql,git,github,idea,vscode" />
 </div>
 
 > Em progresso:  Godot 🕹️ | Spring 🌱
