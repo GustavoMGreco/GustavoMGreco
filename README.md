@@ -1,12 +1,12 @@
 <h1 align="center">Gustavo Monteiro Greco</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=An%C3%A1lise+e+Desenvolv.+de+Sistemas;Apaixonado+por+Backend+e+Jogos;Explorando+novas+tecnologias!+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=An%C3%A1lise+e+Desenvolv.+de+Sistemas;Apaixonado+por+Dev+e+Jogos;Explorando+novas+tecnologias!+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
   🌎 São José dos Campos - SP <br>
-  🧠 Foco:  Backend | Games <br>
+  🧠 Foco:  Full-stack | IA | Games <br>
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 > "Deixei o interior para me aproximar da minha paixão na cidade grande."
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José dos Campos. Minha jornada em tecnologia nasceu do amor por games, continuei no desenvolvimento de software com foco em backend.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José dos Campos. Minha jornada em tecnologia nasceu do amor por games, continuei no desenvolvimento de software full-stack.
 
 🎯 Hoje, meu foco é **aprender na prática**, colaborar em projetos, contribuir para a comunidade e subir de nível constantemente.
 
@@ -27,7 +27,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,java,maven,flask,mysql,git,github,idea,vscode" />
 </div>
 
-> Em progresso:  Godot 🕹️ | Spring 🌱
+> Em progresso: JavaScript | Node.js | React
 
 ---
 
@@ -50,17 +50,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
 ## 📊 Meus Status
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustavoMGreco&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&cache_seconds=21600" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMGreco&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=GustavoMGreco&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GustavoMGreco&layout=compact&langs_count=7&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=GustavoMGreco&theme=algolia" />
+
 </div>
-
----
-
-## 🧩 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GustavoMGreco&theme=radical&row=2&column=3" />
-</p>
 
 ---
 
