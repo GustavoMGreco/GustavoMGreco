@@ -24,10 +24,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
 ## 🔧 Minhas Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,python,java,maven,flask,mysql,git,github,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,python,javascript,typescript,flask,bootstrap,nodejs,react,maven,mysql,postgresql,git,github,idea,vscode" />
 </div>
 
-> Em progresso: JavaScript | Node.js | React
+> Em progresso: Godot | Spring Boot
 
 ---
 
@@ -40,7 +40,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
 
 ## 🏅 Conquistas Recentes
 
-- 💻 Desenvolvi soluções web com **Python** e **Flask**;
+- 💻 Desenvolvi soluções web com **Java**, **Python** e **TypeScript**;
 - 🛠 Participei de **hackathons acadêmicos** com foco em resolução de **problemas reais**;
 - 🧪 Desenvolvi meu **Site Portfólio**;
 - 🎮 Iniciei estudos em **Desenvolvimento de jogos**.
