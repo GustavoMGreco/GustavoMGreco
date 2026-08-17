@@ -1,27 +1,27 @@
 <h1 align="center">Gustavo Monteiro Greco</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=An%C3%A1lise+e+Desenvolv.+de+Sistemas;Apaixonado+por+Dev+e+Jogos;Explorando+novas+tecnologias!+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Dev.+de+Software+Multiplataforma;Apaixonado+por+Dev.+e+Jogos;Explorando+novas+tecnologias" />
 </p>
 
 <p align="center">
-  🌎 São José dos Campos - SP <br>
-  🧠 Foco:  Full-stack | IA | Games <br>
+  São José dos Campos - SP <br>
+  Foco:  Full-stack | IA | Games <br>
 </p>
 
 ---
 
-## 🧠 Sobre Mim
+## Sobre Mim
 
 > "Deixei o interior para me aproximar da minha paixão na cidade grande."
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José dos Campos. Minha jornada em tecnologia nasceu do amor por games, continuei no desenvolvimento de software full-stack.
 
-🎯 Hoje, meu foco é **aprender na prática**, colaborar em projetos, contribuir para a comunidade e subir de nível constantemente.
+Hoje, meu foco é **aprender na prática**, colaborar em projetos, contribuir para a comunidade e subir de nível constantemente.
 
 ---
 
-## 🔧 Minhas Skills
+## Minhas Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,java,python,javascript,typescript,flask,bootstrap,nodejs,react,maven,mysql,postgresql,git,github,idea,vscode" />
@@ -31,23 +31,23 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
 
 ---
 
-## 🚩 Projeto em Destaque
+## Projeto em Destaque
 
-### 📌 [API - AVATAR](https://github.com/NinjaDevs-API/NinjaDevs)
+### [API - AVATAR](https://github.com/NinjaDevs-API/NinjaDevs)
 > Sistema web para gestão de atestados médicos e avaliação de equipes ágeis. Solução robusta que melhora a comunicação acadêmica, além de prover métricas para equipes utilizando a metodologia Scrum.
 
 ---
 
-## 🏅 Conquistas Recentes
+## Conquistas Recentes
 
-- 💻 Desenvolvi soluções web com **Java**, **Python** e **TypeScript**;
-- 🛠 Participei de **hackathons acadêmicos** com foco em resolução de **problemas reais**;
-- 🧪 Desenvolvi meu **Site Portfólio**;
-- 🎮 Iniciei estudos em **Desenvolvimento de jogos**.
+- Desenvolvi soluções web com **Java**, **Python** e **TypeScript**;
+- Participei de **hackathons acadêmicos** com foco em resolução de **problemas reais**;
+- Desenvolvi meu **Site Portfólio**;
+- Iniciei estudos em **Desenvolvimento de jogos**.
 
 ---
 
-## 📊 Meus Status
+## Meus Status
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=GustavoMGreco&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
@@ -58,17 +58,16 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na Fatec São José 
 
 ---
 
-## 🧭 Mapa de Contato
+## Mapa de Contato
 
-| 🌐 Rede | Link |
+| Rede | Link |
 |--------|------|
-| 💼 LinkedIn | [gustavomgreco](https://www.linkedin.com/in/gustavomgreco) |
-| 🌍 Portfólio | [portfolioGMG](https://gustavomgreco.vercel.app) |
-| 🧠 Itch.io | *em breve* |
+| LinkedIn | [gustavomgreco](https://www.linkedin.com/in/gustavomgreco) |
+| Portfólio | [portfolioGMG](https://gustavomgreco.vercel.app) |
 
 ---
 
-## 💬 Citação
+## Citação
 
 > “O mundo é como um jogo — com dedicação, estratégia e aprendizado constante, cada fase se torna uma conquista.”  
 
