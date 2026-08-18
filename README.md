@@ -1,7 +1,7 @@
 <h1 align="center">Gustavo Monteiro Greco</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Dev.+de+Software+Multiplataforma;Apaixonado+por+Dev.+e+Jogos;Explorando+novas+tecnologias" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Desenv.+de+Software+Multiplataforma;Apaixonado+por+Desenv.+e+Jogos;Explorando+novas+tecnologias" />
 </p>
 
 <p align="center">
